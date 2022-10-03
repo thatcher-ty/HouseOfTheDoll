@@ -92,7 +92,7 @@ main #nail-container {
     align-items: center;
     margin-left: auto;
     margin-right: auto;
-    background-image: url("./assets/nail-background.jpg");
+    background-image: url('./assets/nail-background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 25rem;
